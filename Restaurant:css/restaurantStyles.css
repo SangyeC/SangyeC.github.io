@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Lilita+One&display=swap');
+p{
+  font-family:"Lilita One", cursive;
+  color:blue;
+  font-size:1em;
+}
+
+header,footer{
+font-size:50px;
+text-align:center;
+  color:#FFD700;
+  background-color:rgb(255,255,255,0.5);
+}
+
+.maincontent {
+  padding:100px
+}
+
+table {
+  width:50%;
+}
+ th{
+   background-color:"green";
+   height:10px;
+ }
+nav a {
+  font-size:20px ;color:orange;
+}
+
+label {
+  color:white;
+  font-size:20px;
+}
